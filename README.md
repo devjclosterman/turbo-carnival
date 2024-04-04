@@ -3,7 +3,7 @@ A cat API for you Happy Hacking!
 Your going to need to make a .env file to hide your API key your going to build an app.
 Add a variable in the .env file to store your API key, 
 API_KEY=live_CxaCeDVACuYMOACt7wTP8LM2KwEWX1343z7LEOKlF4YftWKt0BFt7ThqZaofAcy5
-like this ^^^^^^^^^^^^^^^^^^^
+----
 in Javascript file add this at the very top:
 require('dotenv').config(); // Load environment variables from .env file
 replace this inside the function where your variable `apikey` is: 
